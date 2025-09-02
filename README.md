@@ -1,6 +1,6 @@
 # Building a Personalized Product Recommendation Engine
 
-# Instacart Market Basket Analysis  
+
 ### Building a Personalized Product Recommendation Engine
 
 ##  Project Overview
